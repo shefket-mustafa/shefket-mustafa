@@ -14,9 +14,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
-  > 💡 I'm also exploring backend technologies like **Express.js** and **MongoDB** to become a more well-rounded developer.
+   💡 I'm also exploring backend technologies like **Express.js** and **MongoDB** to become a more well-rounded developer.
 
 </p>
 
