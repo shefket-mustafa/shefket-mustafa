@@ -28,13 +28,12 @@ I use each project to experiment with something new: context APIs, animations, a
 
 ## 🚀 Current Focus
 
-- 📁 Working on my Projects Management App – create, update, and manage tasks inside multiple projects with clean state logic
-- ⚛️ Practicing React 19 features like lifting state, conditional rendering, and controlled components
+- 📁 Working on my Moviefy project
+- ⚛️ Practicing features like Context API, lifting state, conditional rendering, and controlled components
 - 📘 Applying what I learn from my React course by tackling open-ended coding challenges from the lecturer and building my own versions
 - 🧪 Creating new personal projects to sharpen my frontend skills and explore new tools
 - 🔁 Continuously improving my understanding of JavaScript, React, and modern frontend workflows
 - 📚 Practicing Git & GitHub CLI like a terminal wizard
-- 📚 Polishing my skills through online courses
 
 ---
 
