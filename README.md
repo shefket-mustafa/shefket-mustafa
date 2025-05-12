@@ -28,7 +28,7 @@ I use each project to experiment with something new: context APIs, animations, a
 
 ## 🚀 Current Focus
 
-- 📁 Working on my Moviefy project
+- 📁 Working on my Hades Wear project
 - ⚛️ Practicing features like Context API, lifting state, conditional rendering, and controlled components
 - 📘 Applying what I learn from my React course by tackling open-ended coding challenges from the lecturer and building my own versions
 - 🧪 Creating new personal projects to sharpen my frontend skills and explore new tools
