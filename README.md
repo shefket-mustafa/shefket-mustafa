@@ -15,8 +15,15 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
 <p align="center">
    💡 I have also explored backend technologies like **Express.js** and **MongoDB** for a couple of projects just to have an idea if needed in the future.
-
 </p>
+
+### 🌐 Live Projects
+
+- [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Fashion catalog app with product filters, dropdown navigation, and modern UI (in progress)
+- [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing UI using The Movie DB API (early prototype)
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – React app with authentication, CRUD functionality, likes, and protected routes using a mock server
+- [Weatherer](https://weatherer-five.vercel.app) – A simple weather app with dark theme and real-time API integration
+
 
 
 
