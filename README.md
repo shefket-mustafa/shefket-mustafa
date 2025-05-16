@@ -35,9 +35,10 @@ I use each project to experiment with something new: context APIs, animations, a
 
 ## 🚀 Current Focus
 
-- 📁 Working on my Hades Wear project
+- 📁 Developing my Hades Wear project and refining its UI/UX
 - ⚛️ Practicing features like Context API, lifting state, conditional rendering, and controlled components
-- 📘 Applying what I learn from my React course by tackling open-ended coding challenges from the lecturer and building my own versions
+- 🧠 Exploring performance optimization techniques using hooks like useMemo and useCallback to reduce unnecessary re-renders
+- 📘 Applying concepts from my React course by tackling open-ended challenges and building my own solutions
 - 🧪 Creating new personal projects to sharpen my frontend skills and explore new tools
 - 🔁 Continuously improving my understanding of JavaScript, React, and modern frontend workflows
 - 📚 Practicing Git & GitHub CLI like a terminal wizard
