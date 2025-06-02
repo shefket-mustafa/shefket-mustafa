@@ -25,6 +25,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing UI using The Movie DB API (early prototype)
 - [My Bookstore](https://my-bookstore-react-proj.vercel.app) – React app with authentication, CRUD functionality, likes, and protected routes using a mock server
 - [Weatherer](https://weather-619c.vercel.app) – A simple weather app with real-time API integration, tailwind and basic typescript.
+- [Password Generator](https://password-generator-5i3h.vercel.app) – Small and fun password generator made with React, TypeScript and Tailwing CSS
 
 
 
