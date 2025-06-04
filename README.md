@@ -56,11 +56,10 @@ I use each project to experiment with something new: context APIs, animations, a
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts and Goals
 
-- 🧠 I’m learning everything from the ground up — React 19, Vite, Context API, and beyond
 - 🐾 I have a toy poodle who probably knows more CSS than me
-- 🎯 Goal: Get really good at front end development!
+- 🎯 Getting really good at front end development!
 
 ---
 
