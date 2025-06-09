@@ -33,7 +33,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
 - ## 📚 I'm always learning!
 I enjoy solving problems, pushing myself to grow, and building things that are fun to use. 
-I use each project to experiment with something new: context APIs, animations, accessibility, or clean UI.
+I use each project to experiment with something new!
 
 ---
 
