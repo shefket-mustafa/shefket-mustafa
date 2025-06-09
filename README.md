@@ -59,8 +59,9 @@ I use each project to experiment with something new!
 
 ## ⚡ Fun Facts and Goals
 
-- 🐾 I have a toy poodle who probably knows more CSS than me
 - 🎯 Getting really good at front end development!
+- 🎯  Ready to join my first company and grow as a developer
+- 🐾 I have a toy poodle who probably knows more CSS than me
 
 ---
 
