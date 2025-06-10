@@ -40,7 +40,7 @@ I use each project to experiment with something new!
 ## 🚀 Current Focus
 
 - 📁 Developing my Hades Wear project and refining its UI/UX
-- ⚛️ Practicing features like Typescript, Tailwind CSS, Context API, lifting state, conditional rendering, and controlled components
+- ⚛️ Practicing features like Typescript, Tailwind CSS, Context API, lifting state, conditional rendering, and controlled components and looking into Redux/Toolkit
 - 🧠 Exploring performance optimization techniques using hooks like useMemo and useCallback to reduce unnecessary re-renders
 - 📘 Applying concepts from my React course by tackling open-ended challenges and building my own solutions
 - 🧪 Creating new personal projects to sharpen my frontend skills and explore new tools
