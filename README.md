@@ -16,7 +16,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 </p>
 
 <p align="center">
-   💡 I have also explored backend technologies like **Express.js** and **MongoDB** for a couple of projects just to have an idea if needed in the future.
+   💡 Currently looking into Redux/Toolkit. I have also explored backend technologies like **Express.js** and **MongoDB** for a couple of projects just to have an idea if needed in the future.
 </p>
 
 ### 🌐 Live Projects
