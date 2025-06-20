@@ -27,6 +27,8 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 - [Weatherer](https://weather-2f95.vercel.app/) – A simple weather app with real-time API integration, tailwind and basic typescript.
 - [Password Generator](https://password-generator-5i3h.vercel.app) – Small and fun password generator made with React, TypeScript and Tailwing CSS
 - [Crypto Tracker](https://crypto-tracker-7fcu.vercel.app) – Real-time crypto tracking app built with the lovable.dev AI builder via React, TypeScript, Tailwind CSS, and shadcn/ui using live financial data from public APIs.
+- [EverGreen](https://evergreen-two-lime.vercel.app) –**Still in progress** - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion
+
 
 
 
