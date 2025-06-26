@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
-## 🌟 Technologies & Tools
+## 🌟 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
   <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="50" />
@@ -15,9 +15,20 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" />
 </p>
 
+### 🛠️ Tools & Build  
+**Vite, Git, GitHub, VS Code, Yup Validator**
+
+### 🌐 Languages & Frameworks  
+**JavaScript, TypeScript, React**
+
+### 🎨 Styling  
+**HTML5, CSS3, Tailwind CSS**
+
+--
 <p align="center">
    💡 Currently looking into Redux/Toolkit. I have also explored backend technologies like **Express.js** and **MongoDB** for a couple of projects just to have an idea if needed in the future.
 </p>
+--
 
 ### 🌐 Live Projects
 
