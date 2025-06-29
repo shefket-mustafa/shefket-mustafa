@@ -25,15 +25,11 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 ### 🎨 Styling  
 **HTML5, CSS3, Tailwind CSS**
 
---
-<p align="center">
-   💡 Currently looking into Redux/Toolkit. I have also explored backend technologies like **Express.js** and **MongoDB** for a couple of projects just to have an idea if needed in the future.
-</p>
---
+---
 
 ### 🌐 Live Projects
 
-- [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Fashion catalog app with product filters, dropdown navigation, and modern UI (in progress)
+- [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Hades Wear – A modern fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing UI using The Movie DB API (early prototype)
 - [My Bookstore](https://my-bookstore-react-proj.vercel.app) – React app with authentication, CRUD functionality, likes, and protected routes using a mock server
 - [Weatherer](https://weather-2f95.vercel.app/) – A simple weather app with real-time API integration, tailwind and basic typescript.
