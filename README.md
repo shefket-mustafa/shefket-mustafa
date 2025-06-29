@@ -31,7 +31,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
 - [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Hades Wear – A modern fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing UI using The Movie DB API (early prototype)
-- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – React app with authentication, CRUD functionality, likes, and protected routes using a mock server
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – (Currently fixing the mock server) React app with authentication, CRUD functionality, likes, and protected routes using a mock server
 - [Weatherer](https://weather-2f95.vercel.app/) – A simple weather app with real-time API integration, tailwind and basic typescript.
 - [Password Generator](https://password-generator-5i3h.vercel.app) – Small and fun password generator made with React, TypeScript and Tailwing CSS
 - [Crypto Tracker](https://crypto-tracker-7fcu.vercel.app) – Real-time crypto tracking app built with the lovable.dev AI builder via React, TypeScript, Tailwind CSS, and shadcn/ui using live financial data from public APIs.
