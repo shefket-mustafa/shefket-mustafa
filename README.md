@@ -30,9 +30,9 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 ### 🌐 Live Projects
 
 - [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Hades Wear – A modern fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
-- [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing UI using The Movie DB API (early prototype)
-- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – (Currently fixing the mock server) React app with authentication, CRUD functionality, likes, and protected routes using a mock server
-- [Weatherer](https://weather-2f95.vercel.app/) – A simple weather app with real-time API integration, tailwind and basic typescript.
+- [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing app using **TMDB API**, showcasing component design, prop flow, and dynamic rendering.
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
+- [Weatherer](https://weather-2f95.vercel.app/) – Real-time weather app using public APIs. Built with **React**, **Tailwind**, and **TypeScript**.
 - [Password Generator](https://password-generator-5i3h.vercel.app) – Small and fun password generator made with React, TypeScript and Tailwing CSS
 - [Crypto Tracker](https://crypto-tracker-7fcu.vercel.app) – Real-time crypto tracking app built with the lovable.dev AI builder via React, TypeScript, Tailwind CSS, and shadcn/ui using live financial data from public APIs.
 - [EverGreen](https://evergreen-two-lime.vercel.app) –**Still in progress** - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion
@@ -48,7 +48,7 @@ I use each project to experiment with something new!
 ---
 
 ## 🚀 Current Focus
-- ⚛️ Practicing features like Typescript, Tailwind CSS, Context API, lifting state, conditional rendering, and controlled components and looking into Redux/Toolkit
+- ⚛️ Practicing features like Redux, Typescript, Tailwind CSS, Context API, lifting state, conditional rendering, and controlled components.
 - 🧠 Exploring performance optimization techniques using hooks like useMemo and useCallback to reduce unnecessary re-renders
 - 📘 Applying concepts from my React course by tackling open-ended challenges and building my own solutions
 - 🧪 Creating new personal projects to sharpen my frontend skills and explore new tools
