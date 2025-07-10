@@ -29,13 +29,13 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
 ### 🌐 Live Projects
 
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
 - [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Hades Wear – A modern fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing app using **TMDB API**, showcasing component design, prop flow, and dynamic rendering.
-- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
+- [EverGreen](https://evergreen-two-lime.vercel.app) - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion.
 - [Weatherer](https://weather-2f95.vercel.app/) – Real-time weather app using public APIs. Built with **React**, **Tailwind**, and **TypeScript**.
 - [Password Generator](https://password-generator-5i3h.vercel.app) – Small and fun password generator made with React, TypeScript and Tailwing CSS
 - [Crypto Tracker](https://crypto-tracker-7fcu.vercel.app) – Real-time crypto tracking app built with the lovable.dev AI builder via React, TypeScript, Tailwind CSS, and shadcn/ui using live financial data from public APIs.
-- [EverGreen](https://evergreen-two-lime.vercel.app) –**Still in progress** - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion
 
 
 
