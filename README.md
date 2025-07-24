@@ -29,7 +29,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 
 ### 🌐 Live Projects
 
-- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) – (The server's deployment is causing a cold start. Please be patient in the catalog page the data should load in ~30sec) - Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
 - [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – Hades Wear – A modern fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing app using **TMDB API**, showcasing component design, prop flow, and dynamic rendering.
 - [EverGreen](https://evergreen-two-lime.vercel.app) - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion.
