@@ -32,10 +32,10 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 ⚠️ **Note:** Applications marked as full-stack have both a frontend and backend deployed. Due to the use of free-tier hosting services (e.g. Render), these apps may experience a cold start. This can cause the first request to take up to 30–50 seconds to load. Please be patient.
 
 
-- [My Bookstore](https://my-bookstore-react-proj.vercel.app) - Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
 - [casaFind](https://casa-find-flame.vercel.app/) - A Full-stack modern, responsive web application built with **React**, **Express.js**, **TypeScript** and **Context API** for global state managment, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion.
-- [EverGreen](https://evergreen-two-lime.vercel.app) - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion.
+- [My Bookstore](https://my-bookstore-react-proj.vercel.app) - Full-stack CRUD app with **authentication**, **likes**, **search**, and **MongoDB backend** deployed via Render. Built with **React**, **Express.js**, and **MongoDB Atlas**.
 - [Hades Wear](https://hades-wear-clothing-shop.vercel.app) – A Full-stack modern, fashion catalog app featuring product filtering, sorting, dynamic detail views, a persistent cart, and a smooth UI built with React, Express.js, Redux Toolkit (state management & persistence), Tailwind CSS, Framer Motion, Vite
+- [EverGreen](https://evergreen-two-lime.vercel.app) - A modern, responsive web application built with React and TypeScript, designed for long-term maintainability and scalability, styled with Tailwind CSS and framer motion.
 - [Moviefy](https://moviefy-lemon.vercel.app) – Movie browsing app using **TMDB API**, showcasing component design, prop flow, and dynamic rendering.
 - [Crypto Tracker](https://crypto-tracker-7fcu.vercel.app) – Real-time crypto tracking app built with the lovable.dev AI builder via React, TypeScript, Tailwind CSS, and shadcn/ui using live financial data from public APIs.
 - [Weatherer](https://weather-2f95.vercel.app/) – Real-time weather app using public APIs. Built with **React**, **Tailwind**, and **TypeScript**.
