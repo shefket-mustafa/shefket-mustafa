@@ -12,15 +12,18 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" style="background:white; border-radius:50%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" style="background:white; border-radius:6px; padding:4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
   <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" />
 </p>
 
 ### 🛠️ Tools & Build  
-**Redux Toolkit, Context API, Vite, Git, GitHub, VS Code, Yup Validator, HTML5,**
+**Redux Toolkit, Context API, Vite, Node.js, Git, GitHub, VS Code, Yup Validator, HTML5,**
 
 ### 🌐 Languages & Frameworks  
-**JavaScript, TypeScript, React**
+**JavaScript, TypeScript, React, Express, MongoDB**
 
 ### 🎨 Styling  
 ** CSS3, Tailwind CSS**
