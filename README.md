@@ -19,7 +19,7 @@ My name is Shefket Mustafa and i am a passionate Frontend Developer!
 </p>
 
 ### 🛠️ Tools & Build  
-**Redux Toolkit, Context API, Vite, Node.js, Git, GitHub, VS Code, Yup Validator, HTML5**
+**Redux Toolkit, RTK Query, Context API, Vite, Node.js, Git, GitHub, VS Code, Yup/Zod Validators, HTML5**
 
 ### 🌐 Languages & Frameworks  
 **JavaScript, TypeScript, React, Express, MongoDB**
